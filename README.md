@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Han Lee!
 
-<!--
-**hlee18lee46/hlee18lee46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about software development and creating impactful projects with React, iOS, and game-based learning. Here's a bit about me and what I've accomplished so far!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+- 🥇 **2024 Kent Hack Enough Grand Prize - 1st Overall**  
+  *For the project "Empty the Fridge", combining creativity with tech!*
+
+- 🥇 **2024 Spring Best React App - Peraton Award**  
+  *Developed a cutting-edge React app that stood out among peers.*
+
+- 🥈 **2024 Shellhacks Cafe Cultura Challenge - 2nd Place**  
+  *Helped small businesses with an innovative iOS app connecting users to vendors.*
+
+---
+
+## 💻 Technologies & Tools
+- **Languages**: Swift, JavaScript, Python, C++
+- **Frameworks & Libraries**: React, SwiftUI, SpriteKit, FastAPI
+- **Tools**: Supabase, Auth0, Git, Qdrant, ffmpeg
+
+---
+
+## 🚀 Projects
+- 🌟 **[Empty the Fridge](#)** - A project that earned 1st place at Kent Hack Enough.
+- 🌟 **[Shellhacks iOS App](#)** - An app to assist small businesses in the Latine community.
+
+---
+
+## 🎯 My Goals
+- Contribute more to open source
+- Build impactful tools in the educational tech space
+- Learn and implement game-based learning methods in web and mobile platforms
+
+---
+
+## 📫 Get in touch
+- Personal website: [Coming soon!](#)
+- GitHub: [hlee18lee46](https://github.com/hlee18lee46)
