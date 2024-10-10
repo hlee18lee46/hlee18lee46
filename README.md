@@ -5,14 +5,14 @@ I'm passionate about software development and creating impactful projects with R
 ---
 
 ## 🏆 Achievements
-- 🥇 **2024 Kent Hack Enough Grand Prize - 1st Overall**  
-  *For the project "Empty the Fridge", combining creativity with tech!*
+- 🥇 **2024 Kent Hack Enough (@Kent State University) Grand Prize - 1st Overall**  
+  *For the project "Empty the Fridge", that generates recipes based on the ingredients in you fridge after uploading a photo of inside the fridge!*
 
-- 🥇 **2024 Spring Best React App - Peraton Award**  
-  *Developed a cutting-edge React app that stood out among peers.*
+- 🥇 **2024 Spring HackPSU (@ Penn State University) Best React App - Peraton Award**  
+  *Developed a cutting-edge React app "CommunitySOS" that connects volunteers and those who need help.*
 
-- 🥈 **2024 Shellhacks Cafe Cultura Challenge - 2nd Place**  
-  *Helped small businesses with an innovative iOS app connecting users to vendors.*
+- 🥈 **2024 Shellhacks (@ Florida International University) Cafe Cultura Challenge - 2nd Place**  
+  *Helped small Latine businesses with an innovative iOS app connecting users to vendors, and vendors to vendors.*
 
 ---
 
