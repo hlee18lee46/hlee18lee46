@@ -41,13 +41,6 @@ I'm passionate about software development and creating impactful projects with R
 
 ---
 
-## 💻 Technologies & Tools
-- **Languages**: Swift, JavaScript, Python, C++
-- **Frameworks & Libraries**: React, SwiftUI, SpriteKit, FastAPI
-- **Tools**: Supabase, Auth0, Git, Qdrant, ffmpeg
-
----
-
 ## 🚀 Projects
 - 🌟 **[Empty the Fridge](#)** - A project that earned 1st place at Kent Hack Enough.
 - 🌟 **[Shellhacks iOS App](#)** - An app to assist small businesses in the Latine community.
