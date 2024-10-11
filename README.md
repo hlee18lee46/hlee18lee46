@@ -33,6 +33,10 @@ I'm passionate about software development and creating impactful projects with R
 - Contribute more to open source
 - Build impactful tools in the educational tech space
 - Learn and implement game-based learning methods in web and mobile platforms
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
 
 ---
 
