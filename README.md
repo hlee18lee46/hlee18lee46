@@ -5,6 +5,7 @@ I'm passionate about software development and creating impactful projects with R
 ---
 
 ## 🏆 Achievements
+
 - 🥇 **2024 Kent Hack Enough (@Kent State University) Grand Prize - 1st Overall**  
   *For the project "Empty the Fridge", that generates recipes based on the ingredients in you fridge after uploading a photo of inside the fridge!*
 
@@ -13,6 +14,9 @@ I'm passionate about software development and creating impactful projects with R
 
 - 🥈 **2024 Shellhacks (@ Florida International University) Cafe Cultura Challenge - 2nd Place**  
   *Helped small Latine businesses with an innovative iOS app connecting users to vendors, and vendors to vendors.*
+  
+ -  **2025 UGAHacks (@University of Georgia) Honorable Mention - Truist Challenge**  
+  * Gamification of Financial quizzes through AI-generated quizzes *
 
 ---
 
