@@ -16,7 +16,7 @@ I'm passionate about software development and creating impactful projects with R
   *Helped small Latine businesses with an innovative iOS app connecting users to vendors, and vendors to vendors.*
   
  -  **2025 UGAHacks (@University of Georgia) Honorable Mention - Truist Challenge**  
-  *Gamification of Financial quizzes through AI-generated quizzes *
+  *Gamification of Financial quizzes through AI-generated quizzes*
 
 ---
 
